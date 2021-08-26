@@ -1,6 +1,6 @@
 # Cats
 
-The api used are here: 
+The api used can be found here: 
 
 https://alexwohlbruck.github.io/cat-facts/ (for the cat facts)
 
